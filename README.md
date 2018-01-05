@@ -1,2 +1,2 @@
 # hello-world
-Ashton's repository
+I am a novice coder currently working on my mastery of JavaScript!
